@@ -1,0 +1,5 @@
+C:\Users\iyainfo\Documents\Visual Studio 2015\Projects\mvvm\prism.mvvm\prism.mvvm\obj\Debug\Views\viewB.g.cs
+C:\Users\iyainfo\Documents\Visual Studio 2015\Projects\mvvm\prism.mvvm\prism.mvvm\obj\Debug\App.g.cs
+C:\Users\iyainfo\Documents\Visual Studio 2015\Projects\mvvm\prism.mvvm\prism.mvvm\obj\Debug\prism.mvvm_MarkupCompile.cache
+C:\Users\iyainfo\Documents\Visual Studio 2015\Projects\mvvm\prism.mvvm\prism.mvvm\obj\Debug\prism.mvvm_MarkupCompile.lref
+C:\Users\iyainfo\Documents\Visual Studio 2015\Projects\mvvm\prism.mvvm\prism.mvvm\bin\Debug\prism.mvvm.exe.config
