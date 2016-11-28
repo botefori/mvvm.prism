@@ -1,3 +1,2 @@
 Je modifie pour voir mergetool en action
-Une nouvelle modification juste pour tester le merge
 Il il y aura des choses à gerer c'est sure
