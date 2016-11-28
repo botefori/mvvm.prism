@@ -1,0 +1,2 @@
+Je modifie pour voir mergetool en action
+Il il y aura des choses à gerer c'est sure
