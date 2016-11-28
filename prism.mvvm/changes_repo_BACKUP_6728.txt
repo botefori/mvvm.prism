@@ -1,0 +1,6 @@
+Je modifie pour voir mergetool en action
+<<<<<<< HEAD
+Une vraie modification à voir
+=======
+>>>>>>> feature1
+Il il y aura des choses à gerer c'est sure
